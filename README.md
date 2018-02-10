@@ -1,0 +1,2 @@
+# ecosmos
+ecosmos_aws
